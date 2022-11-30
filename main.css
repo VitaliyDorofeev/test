@@ -1,0 +1,11 @@
+.header {
+    margin: 0 auto;
+    background-color: rgba(128, 128, 128, 0.647);
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.header h1 {
+    text-align: center;
+    font-size: 58px;
+}
