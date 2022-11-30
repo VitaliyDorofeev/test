@@ -9,3 +9,15 @@
     text-align: center;
     font-size: 58px;
 }
+
+.main {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color: rgba(0, 255, 255, 0.667);
+    color: #fff;
+}
+
+.main h1 {
+    text-align: center;
+    font-size: 48px;
+}
